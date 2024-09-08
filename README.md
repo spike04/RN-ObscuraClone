@@ -14,10 +14,10 @@ This is a clone of the popular [Obscura](https://obscura.app/) app. It is built 
 ## Screenshots
 
 <p>
-<img src="./screenshots/1.png" width="240" style="padding: 10px" />
-<img src="./screenshots/2.png" width="240" style="padding: 10px" />
-<img src="./screenshots/3.png" width="240" style="padding: 10px" />
-<img src="./screenshots/4.png" width="240" style="padding: 10px" />
+<img src="./screenshots/1.PNG" width="240" style="padding: 10px" />
+<img src="./screenshots/2.PNG" width="240" style="padding: 10px" />
+<img src="./screenshots/3.PNG" width="240" style="padding: 10px" />
+<img src="./screenshots/4.PNG" width="240" style="padding: 10px" />
 </p>
 
 This project is created based on the Tutorial from [CodeWithBeto](https://www.youtube.com/watch?v=xNaGYGDZ2JU). 
